@@ -1,0 +1,1 @@
+{"version":3,"file":"ti-customer.d.ts","sourceRoot":"","sources":["../../src/flow/ti-customer.ts"],"names":[],"mappings":"AAGA,cAAM,UAAU;IACZ;;;;;;;OAOG;IACH,gBAAgB,CAAC,GAAG,EAAE,MAAM,EAAE,SAAS,EAAE,MAAM,EAAE,MAAM,EAAE,MAAM,EAAE,QAAQ,EAAE,GAAG;IAgC9E;;;;;OAKG;IACH,sBAAsB,CAAC,GAAG,EAAE,MAAM,EAAE,UAAU,EAAE,MAAM,GAAG,OAAO,CAAC,GAAG,CAAC;CA2BxE;AAED,OAAO,EAAE,UAAU,EAAE,CAAA"}

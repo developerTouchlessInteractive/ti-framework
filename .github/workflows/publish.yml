@@ -18,6 +18,7 @@ jobs:
       - run: npm test    
       - run: npm run build
       - run: ls -al
+      - run: ls -al dist
 
   publish-npm:
     needs: build
