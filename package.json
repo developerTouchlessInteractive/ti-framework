@@ -1,6 +1,6 @@
 {
   "name": "ti-framework",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "sdk for client implementing TouchlessInteractive framework",
   "author": "sailesh n vinay",
   "main": "dist/ti.js",
